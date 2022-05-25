@@ -19,7 +19,7 @@ Hello! Welcome to my Github! so a little about me - I was a law student who is t
 
 ![My Favorite Website:](https://chloeting.com)
 
-*Top 5 TV Show*
+*Top 5 TV Shows*
 
 1. Master Chef
 2. Handmaids Tale
